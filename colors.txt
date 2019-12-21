@@ -1,0 +1,7 @@
+background: f5fafd
+icon:		03a9f4
+
+op1:		166fb3
+op2:		258cc7
+
+orange1:	ff9800
